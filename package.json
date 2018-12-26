@@ -1,0 +1,41 @@
+{
+  "name": "nequi",
+  "version": "0.0.1",
+  "description": "Nequi - Two-colors Sass Framework",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "*",
+    "gulp": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-clean-css": "*",
+    "gulp-cli": "*",
+    "gulp-concat": "*",
+    "gulp-js-minify": "*",
+    "gulp-sass": "*",
+    "gulp-svgmin": "*",
+    "gulp-svgstore": "*",
+    "gulp-watch": "*",
+    "node-sass": "*",
+    "path": "*"
+  },
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/marcomaza92/nequi.git"
+  },
+  "keywords": [
+    "Nequi",
+    "Framework",
+    "CSS",
+    "Sass"
+  ],
+  "author": "Marco Maza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gitlab.com/marcomaza92/nequi/issues"
+  },
+  "homepage": "https://gitlab.com/marcomaza92/nequi#README"
+}
