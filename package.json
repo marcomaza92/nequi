@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://gitlab.com/marcomaza92/nequi/issues"
   },
-  "homepage": "https://gitlab.com/marcomaza92/nequi#README"
+  "homepage": "https://gitlab.com/marcomaza92/nequi#README",
+  "volta": {
+    "node": "22.12.0"
+  }
 }
