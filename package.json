@@ -3,13 +3,12 @@
   "version": "0.0.1",
   "description": "Nequi - Two-colors Sass Framework",
   "main": "index.html",
-  "dependencies": {},
   "devDependencies": {
-    "node-sass": "4.12.0"
+    "sass": "^1.83.0"
   },
   "scripts": {
-    "build": "node-sass scss/index.scss css/index.css",
-    "watch": "node-sass -w scss/index.scss css/index.css"
+    "build": "sass scss/index.scss css/index.css",
+    "watch": "sass -w scss/index.scss css/index.css"
   },
   "repository": {
     "type": "git",
