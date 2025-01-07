@@ -6,6 +6,14 @@
 // This is a mobile-first approach
 // Your custom styles should be here
 
+:root {
+  --header-height: 75px;
+}
+
+.below-fold {
+  height: calc(100dvh - var(--header-height));
+}
+
 @include setOrientation(map-get($orientation, landscape)) {
   // Some iPhones have smaller resolution than 576px in landscape, hence this hack
 }
