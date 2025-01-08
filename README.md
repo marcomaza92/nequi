@@ -1,13 +1,13 @@
-# Nequi
+## Nequi
 
-Nequi is a semantic, unopinionated, scalable and agnostic (S)CSS framework.
+Nequi is a semantic, scalable and agnostic (S)CSS library.
 
 This means:
 
-- It follows HTML5 markup in a _natural way_
-- Is fully customizable (styles, content, layouts, etc.)
-- Is as small or big as you need it to be (atomic design approach)
-- It works with your JS framework/library of choice (Angular(JS), React, Vue, Aurelia, Svelte, etc.)
+- Follows HTML5 markup in a _natural way_
+- Fully customizable
+- As small or big as you need
+- Works with your JS framework/library of choice
 
 ---
 
@@ -19,12 +19,12 @@ This means:
 
 ---
 
-## Installation
+### Installation
 
-## Usage
+### Usage
 
-## Motivation
+### Motivation
 
-## Contributing
+### Contributing
 
-## License
+### License

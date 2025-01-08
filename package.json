@@ -1,7 +1,7 @@
 {
   "name": "nequi",
   "version": "0.0.1",
-  "description": "Nequi - Two-colors Sass Framework",
+  "description": "Nequi - Semantic, scalable and agnostic (S)CSS library",
   "main": "index.html",
   "devDependencies": {
     "sass": "^1.83.0"
@@ -12,20 +12,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@gitlab.com/marcomaza92/nequi.git"
+    "url": "git+ssh://git@github.com/marcomaza92/nequi.git"
   },
   "keywords": [
     "Nequi",
     "Framework",
     "CSS",
-    "SCSS"
+    "SASS"
   ],
   "author": "Marco Maza",
   "license": "MIT",
   "bugs": {
-    "url": "https://gitlab.com/marcomaza92/nequi/issues"
+    "url": "https://github.com/marcomaza92/nequi/issues"
   },
-  "homepage": "https://gitlab.com/marcomaza92/nequi#README",
+  "homepage": "https://github.com/marcomaza92/nequi#README",
   "volta": {
     "node": "22.12.0"
   }
