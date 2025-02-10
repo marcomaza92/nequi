@@ -5,7 +5,7 @@
 
 @mixin createLinks($primary, $secondary, $tertiary) {
   .link {
-    &.primary {
+    &-primary {
       color: $primary;
       transition: 0.25s all ease-in-out;
       &:hover,
@@ -20,7 +20,7 @@
         }
       }
     }
-    &.secondary {
+    &-secondary {
       color: $secondary;
       transition: 0.25s all ease-in-out;
       &:hover,
