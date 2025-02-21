@@ -16,6 +16,17 @@
   height: calc(100dvh - var(--header-height));
 }
 
+.mondrian {
+  --gap: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--gap);
+
+  &.mondrian-child {
+    height: 250px; // Randomize and allow array of different heights
+  }
+}
+
 @include setOrientation(map-get($orientation, landscape)) {
   // Some iPhones have smaller resolution than 576px in landscape, hence this hack
 }

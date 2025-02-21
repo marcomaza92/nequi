@@ -7,12 +7,12 @@
 $colors: (
   // Chromatic shold be left as is.
   black: #000000,
-  white: #FFFFFF,
+  white: #ffffff,
   // Main can be empty (i.e.: Chromatic colors == Main colors).
-  purple: #3D0046,
-  yellow: #D97F11,
-  turquoise: #168C8C,
-  green: #09470B
+  purple: #3d0046,
+  yellow: #d97f11,
+  turquoise: #168c8c,
+  green: #09470b
 );
 
 // Shades and Tints
@@ -38,15 +38,15 @@ $margin: 1rem;
 $padding: 1rem;
 
 // Media queries
-// Break-points
-$break-points: (
+// Breakpoints
+$breakpoints: (
   small: 576px,
   medium: 768px,
   large: 992px,
-  super: 1200px
+  super: 1200px,
 );
 // Orientation
 $orientation: (
   portrait: portrait,
-  landscape: landscape
+  landscape: landscape,
 );
